@@ -18,7 +18,7 @@ dependencies:
 - missingno
 - scikit-learn
 - cython
-- nodejs
+# - nodejs ## install separately via conda install -c conda-forge nodejs=11
 - pyjanitor
 - xarray
 - pandoc
